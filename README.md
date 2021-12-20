@@ -27,10 +27,6 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Switch between viewing Daily, Weekly, and Monthly stats
 
-### Screenshot
-
-![](./screenshot.jpg)
-
 
 ### Links
 
@@ -46,15 +42,16 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- Javascript
 
 ### What I learned
-
+Javascript
 
 ### Continued development
-
+Not sure 
 
 ### Useful resources
-
+Youtube
 
 
 ## Author
