@@ -27,11 +27,14 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Switch between viewing Daily, Weekly, and Monthly stats
 
+### Screenshot
+
+![Time Tracking Solution Screenshot](images\screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://njabz-1.github.io/Time-tracking-dashboard/
+
 
 ## My process
 
