@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Time Tracking Solution Screenshot](images/Screenshot.jpg)
+![Time Tracking Solution Screenshot](images/Screenshot.JPG)
 
 ### Links
 
